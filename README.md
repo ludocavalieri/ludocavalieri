@@ -12,7 +12,7 @@ I'm a PhD student in Aeronautical and Space Engineering at Sapienza University o
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> My skills
+### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> My skills
 
 **Programming Languages**
 
@@ -33,7 +33,7 @@ I'm a PhD student in Aeronautical and Space Engineering at Sapienza University o
 <p align="center"> 
   <!-- ROS2 -->
   <a href="https://docs.ros.org/en/rolling/index.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS2" width="80" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS2" width="100" height="40"/>
   </a>
   &nbsp
     <!-- Blender -->
@@ -48,7 +48,7 @@ I'm a PhD student in Aeronautical and Space Engineering at Sapienza University o
   &nbsp
   <!-- Isaac Sim -->
   <a href="https://developer.nvidia.com/isaac-sim" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/NVIDIA_logo.svg" alt="NVIDIA Omniverse" width="120" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/NVIDIA_logo.svg" alt="NVIDIA Omniverse" width="160" height="40"/>
   </a>
 </a>
 
