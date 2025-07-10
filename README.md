@@ -1,8 +1,8 @@
-## Hi, I'm Ludovica! 👋
+## Hi, I'm Ludovica! 👋 
 
 I'm a PhD student in Aeronautical and Space Engineering at Sapienza University of Rome, working on AI-enhanced guidance, navigation, and control algorithms for space robotics systems.
 
-### 📫 Get in contact with me!
+### 📫 Get in contact with me! 
 
 <p align="center">
     <a href="mailto:ludovica.cavalieri@uniroma1.it">
@@ -12,7 +12,7 @@ I'm a PhD student in Aeronautical and Space Engineering at Sapienza University o
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2> My skills
+### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> My skills
 
 **Programming Languages**
 
