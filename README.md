@@ -8,7 +8,7 @@ I'm a PhD student in Aeronautical and Space Engineering at Sapienza University o
     <a href="mailto:ludovica.cavalieri@uniroma1.it">
     <img src="https://img.shields.io/badge/-Email-5734C4?style=for-the-badge&logo=gmail"/></a>
     &nbsp;
-    <a href="https://www.linkedin.com/in/astrorick/">
+    <a href="https://www.linkedin.com/in/ludovica-cavalieri-934b72262/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
