@@ -55,12 +55,12 @@ I'm a PhD student in Aeronautical and Space Engineering at Sapienza University o
 
 </p>
 
-### ⚙️ Profile Statistics
+<!--### ⚙️ Profile Statistics
 
 <p align="center">
     <img width="51.0%" src="https://github-readme-stats.vercel.app/api?username=ludocavalieri&show_icons=true&theme=github_dark&hide_border=true"/>
     <img width="45.6%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludocavalieri&langs_count=6&theme=github_dark&layout=compact&hide_border=true"\>
-</p>
+</p>-->
 
 <!--
 **ludocavalieri/ludocavalieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
